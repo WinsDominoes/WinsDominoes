@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wins</h1>
+<h1 align="center">Hi 👋, I'm Wins/h1>
 <h3 align="center">I develop and code fun stuff</h3>
 
 - 🌱 I’m currently learning **node.js and Javascript**
