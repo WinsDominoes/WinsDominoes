@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C**
 
-- 📝 I regularly write articles on [https://winsdominoes.winscloud.net](https://winsdominoes.winscloud.net)
+- 📝 I post blogs on [https://winsdominoes.winscloud.net](https://winsdominoes.winscloud.net)
 
 - 📫 How to reach me **WinsDominoesOfficial@protonmail.com**
 
