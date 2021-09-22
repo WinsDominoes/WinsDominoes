@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [WinsVideo 2.0](https://github.com/WinsVideo/winsvideo-2.0)
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📝 I post blogs on [https://winsdominoes.winscloud.net](https://winsdominoes.winscloud.net)
 
