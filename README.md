@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Win's Archive](https://archive.winscloud.net)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Nothing**
 
-- 📝 I post blogs on [https://winsdominoes.winscloud.net](https://winsdominoes.winscloud.net)
+- 📝 I make posts on [https://winsdominoes.winscloud.net](https://winsdominoes.winscloud.net)
 
 - 📫 How to reach me **WinsDominoesOfficial@protonmail.com**
 
