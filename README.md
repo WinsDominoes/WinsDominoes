@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Twitter to PistonPost](https://github.com/WinsDominoes/twitter-to-pistonpost)
 
-- 🌱 I’m currently learning **6502 Assembly & C programming**
+- 🌱 I’m currently learning **JavaScript and PHP**
 
 - 📝 I make posts on [https://posts.winsdominoes.net](https://posts.winsdominoes.net)
 
