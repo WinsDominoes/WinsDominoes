@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Win</h1>
-<h3 align="center">Person who makes stuff</h3>
+<h3 align="center">High-schooler who makes stuff</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winsdominoes&label=Profile%20views&color=0e75b6&style=flat" alt="winsdominoes" /> </p>
 
 <p align="left"> <a href="https://twitter.com/winsdominoes" target="blank"><img src="https://img.shields.io/twitter/follow/winsdominoes?logo=twitter&style=for-the-badge" alt="winsdominoes" /></a> </p>
 
-- 🔭 I’m currently working on [Twitter to PistonPost](https://github.com/WinsDominoes/twitter-to-pistonpost)
+- 🔭 I’m currently working on [PhotoSphereStudio](https://github.com/WinsDominoes/PhotoSphereStudio)
 
-- 🌱 I’m currently learning **JavaScript and PHP**
+- 🌱 I’m currently learning **C & Assembly**
 
 - 📝 I make posts on [https://posts.winsdominoes.net](https://posts.winsdominoes.net)
 
-- 📫 How to reach me **WinsDominoesOfficial@protonmail.com**
+- 📫 How to reach me **wins.dominoes2007@gmail.com**
 
 - ⚡ Fun fact **I like Marvel Movies**
 
