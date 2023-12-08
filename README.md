@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Win</h1>
-<h3 align="center">High-schooler who makes stuff</h3>
+<h1 align="center">Hi 👋, I'm Win!</h1>
+<h3 align="center">Full stack developer (kind of), high schooler, language nerd and terrible-joke-maker.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winsdominoes&label=Profile%20views&color=0e75b6&style=flat" alt="winsdominoes" /> </p>
 
 <p align="left"> <a href="https://twitter.com/winsdominoes" target="blank"><img src="https://img.shields.io/twitter/follow/winsdominoes?logo=twitter&style=for-the-badge" alt="winsdominoes" /></a> </p>
 
-- 🔭 I’m currently working on [PhotoSphereStudio](https://github.com/WinsDominoes/PhotoSphereStudio)
+- 🔭 I’m currently working on [Comic Downloader](https://github.com/WinsDominoes/comic-downloader)
 
-- 🌱 I’m currently learning **C & Assembly**
+- 🌱 I’m currently learning **React / Next.js & C/C++**
 
-- 📝 I make posts on [https://posts.winsdominoes.net](https://posts.winsdominoes.net)
+- 📝 I make posts on [Mastodon - social.winscloud.net/@winsdominoes](https://social.winscloud.net/@winsdominoes)
 
 - 📫 How to reach me **wins.dominoes2007@gmail.com**
 
