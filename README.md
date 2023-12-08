@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React / Next.js & C/C++**
 
-- 📝 I make posts on [Mastodon - social.winscloud.net/@winsdominoes](https://social.winscloud.net/@winsdominoes)
+- 📝 I make posts on [Mastodon](https://social.winscloud.net/@winsdominoes)
 
 - 📫 How to reach me **wins.dominoes2007@gmail.com**
 
