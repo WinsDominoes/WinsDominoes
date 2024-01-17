@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winsdominoes&label=Profile%20views&color=0e75b6&style=flat" alt="winsdominoes" /> </p>
 
-- 🔭 I’m currently working on [Comic Downloader](https://github.com/WinsDominoes/comic-downloader)
+- 🔭 I’m currently working on [website](https://github.com/WinsDominoes/website)
 
 - 🌱 I’m currently learning **React / Next.js & C/C++**
 
-- 👨‍💻 All of my projects are available at [https://winsdominoes.net](https://winsdominoes.net)
+- 👨‍💻 All of my projects are available at [https://winsdominoes.net](https://winsdominoes.net/projects)
 
 - 📫 Email me at **wins.dominoes2007@gmail.com**
 
-- 📄 Know about my experiences [https://winsdominoes.net/projects](https://winsdominoes.net/projects)
+- 📄 Know about my hobbies [https://winsdominoes.net/hobbies](https://winsdominoes.net/hobbies)
 
 - ⚡ Fun fact **I like languages**
 
