@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Win</h1>
-<h3 align="center">Full stack developer (kind of), undergraduate student, language nerd and terrible-joke-maker.</h3>
+<h3 align="center">Full stack developer (kind of), undergraduate student, language nerd and cosplayer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winsdominoes&label=Profile%20views&color=0e75b6&style=flat" alt="winsdominoes" /> </p>
 
