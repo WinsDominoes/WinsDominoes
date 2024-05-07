@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [website](https://github.com/WinsDominoes/website)
 
-- 🌱 I’m currently learning **React / Next.js & C/C++**
+- 🌱 I’m currently learning **C & Assembly**
 
 - 👨‍💻 All of my projects are available at [https://winsdominoes.net](https://winsdominoes.net/projects)
 
