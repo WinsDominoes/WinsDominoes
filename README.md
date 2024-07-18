@@ -1,28 +1,18 @@
-<h1 align="center">Hi 👋, I'm Win</h1>
-<h3 align="center">An undergraduate student and an aspiring computer engineer.</h3>
-<h4 align="center">Projects have been moved to my git repo: https://git.winscloud.net/winsdominoes<h4>
+<h1 align="center">Hi! I'm Win</h1>
+<p align="center">An undergraduate student, an aspiring computer engineer and a crazy system administrator.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=winsdominoes&label=Profile%20views&color=0e75b6&style=flat" alt="winsdominoes" /> </p>
+<img src="assets/images/banner.JPG" alt="Me pointing to the green Bangkok sign" /><br/>
 
-- 🔭 I’m currently working on [Winnie-HTTP](https://git.winscloud.net/winsdominoes/winnie-http)
+<div align="center">
+    <a href="https://git.winscloud.net/winsdominoes">
+        <img alt="Win's Skills" src="https://skillicons.dev/icons?i=html,css,tailwind,php,js,nodejs,express,discordjs,ts,react,nextjs,c,arduino,gtk,dart,flutter,python,bash,git,docker,cloudflare,mysql,sqlite,nginx,bsd,linux,debian,raspberrypi,arch,vscodium" />
+    </a>
 
-- 🌱 I’m currently learning **C & x86 Assembly**
+<br />
 
-- 👨‍💻 All of my projects are available at [https://git.winscloud.net/winsdominoes](https://git.winscloud.net/winsdominoes)
+|   |           |   |   |
+|---|-----------|---|---|
+| <img src="https://skillicons.dev/icons?i=fediverse" alt="Fediverse" /> | [@winsdominoes@fedi.winscloud.net](https://fedi.winscloud.net/winsdominoes) | <img src="assets/icons/peertube.svg" alt="PeerTube" width="30" /> | [@winsdominoes@peertube.winscloud.net](https://peertube.winscloud.net/a/winsdominoes) | 
+| <img src="assets/icons/matrix.svg" style="Matrix" />  | [@winsdominoes:matrix.winscloud.net](https://matrix.to/#/@winsdominoes:matrix.winscloud.net) | <img src="assets/icons/protonmail.svg" alt="Proton Mail" width="30" /> | [winsdominoes@winscloud.net](mailto:winsdominoes@winscloud.net) |
 
-- 💬 Ask me about **self-hosting**
-
-- 📫 How to reach me **WinsDominoes@protonmail.me**
-
-- ⚡ Fun fact **I like languages and cosplaying.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left"></p>
-
-- Fediverse: [https://fedi.winscloud.net/winsdominoes](https://fedi.winscloud.net/winsdominoes)
-
-- Matrix: [https://matrix.to/#/@winsdominoes:matrix.winscloud.net](https://matrix.to/#/@winsdominoes:matrix.winscloud.net)
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
+</div>
