@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Win</h1>
 <p align="center">An undergraduate student, an aspiring computer engineer and a crazy system administrator.</p>
-<h3 align="center">All active repositories have been moved to <a href="https://git.winscloud.net">https://git.winscloud.net/winsdominoes</a></h3>
+<h3 align="center">All active repositories have been moved to <a href="https://git.winscloud.net/winsdominoes">https://git.winscloud.net/winsdominoes</a></h3>
 
 <img src="assets/images/banner.JPG" alt="Me pointing to the green Bangkok sign" /><br/>
 
