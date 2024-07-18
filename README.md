@@ -10,9 +10,8 @@
 
 <br />
 
-|   |           |   |   |
-|---|-----------|---|---|
 | <img src="https://skillicons.dev/icons?i=fediverse" alt="Fediverse" /> | [@winsdominoes@fedi.winscloud.net](https://fedi.winscloud.net/winsdominoes) | <img src="assets/icons/peertube.svg" alt="PeerTube" width="30" /> | [@winsdominoes@peertube.winscloud.net](https://peertube.winscloud.net/a/winsdominoes) | 
+|---|-----------|---|---|
 | <img src="assets/icons/matrix.svg" style="Matrix" />  | [@winsdominoes:matrix.winscloud.net](https://matrix.to/#/@winsdominoes:matrix.winscloud.net) | <img src="assets/icons/protonmail.svg" alt="Proton Mail" width="30" /> | [winsdominoes@winscloud.net](mailto:winsdominoes@winscloud.net) |
 
 </div>
