@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Win</h1>
+<h1 align="center">Hi! I'm Winnie The Pooh</h1>
 <p align="center">An undergraduate student, an aspiring systems programmer & a could-have-been Linguistic Major.</p>
 
 <img src="assets/images/banner.JPG" alt="Me pointing to the green Bangkok sign" /><br/>
