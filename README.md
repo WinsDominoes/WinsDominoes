@@ -1,6 +1,6 @@
 # 👋 สบายดีจ้า - 大家好 - Χαίρετε! 
 ## Siamese Thai (ไทยสยาม)
-สบายดีไหมขอรับทุกท่าน ข้าพเจ้ามีนามว่า "วิน" เป็นผู้ที่รักภาษา C และ Assembly อย่างสุดหัวใจ
+สบายดีไหมทุกคนนน เราชื่อ "วิน" เราชอบเขียนภาษา C กับ Assembly เป็นคนที่ชื่นชอบเรียนรู้ Low Level Programming จ้า 
 ## English
 Hello all, I am Winnie The Pooh. I like C & Assembly. Low Level Programming is great.
 ## Ancient Greek (Ἑλληνική / Ῥωμαῖκή)
