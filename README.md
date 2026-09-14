@@ -1,9 +1,2 @@
-# 👋 สบายดีจ้า - 大家好 - Χαίρετε! 
-## Siamese Thai (ไทยสยาม)
-สบายดีไหมทุกคนนน เราชื่อ "วิน" เราชอบเขียนภาษา C กับ Assembly เป็นคนที่ชื่นชอบเรียนรู้ Low Level Programming จ้า 
-## English
-Hello all, I am Winnie The Pooh. I like C & Assembly. Low Level Programming is great.
-## Ancient Greek (Ἑλληνική / Ῥωμαῖκή)
-Χαίρετε πάντες, τό ὄνομα μοι Κωνσταντίνος ἐστιν. (ναί, ὅτι ἐστι Ἑλληνικὸν ὅνομα μου) Ἐγώ εἰμι προγραμματιτής ἐκ τῆς Ταῖλανδης. Ἐγώ φίλω ἡ Ϲ καὶ συμβολική γλῶσσα. Χάρις ὑμῖν καὶ εἰρήρη.
-## Mandarin (華語)
-大家好, 我叫...啊! 我還沒有中文名字,不好意思. 就叫我 "Win" 啦 ! 我喜歡都 C 和 Assembly 電腦語言.
+# 👋 Hello - สบายดีจ้า - 大家好 - Χαίρετε! 
+Just a man who has a Dell Optiplex and has a wide-range of interests.
